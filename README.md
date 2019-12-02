@@ -1,6 +1,6 @@
 # rm-s04e03-amzn
 
-这是Rick.and.Morty.S04E03.One.Crew.Over.The.Crewcoos.Morty.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD中文翻译的公开改错项目，关于此项目的来源，详见：https://subhd.tv/ar0/498821
+这是Rick.and.Morty.S04E03.One.Crew.Over.The.Crewcoos.Morty.1080p.AMZN.WEB-DL.DD+5.1.H.264-CtrlHD中文翻译的公开改错项目，关于此项目的来源，详见：https://github.com/fjn308/post/releases/latest/download/post.pdf
 
 改错原则是：仅仅修正语义错误，忽略表达习惯差异。
 
